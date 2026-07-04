@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Insiders\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(551,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (PK4_Edytor.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  canvas.cpp
+  classes.cpp
+  main.cpp
+  menu.cpp
+  Generating Code...
+  PaintApp.vcxproj -> C:\Users\ACER\source\repos\PaintApp\x64\Debug\PaintApp.exe

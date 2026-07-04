@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PaintApp/PaintApp.vcxproj" Id="1461c70e-fd43-4bda-ac69-8bd3304edb2b" />
+</Solution>
